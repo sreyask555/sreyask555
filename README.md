@@ -6,7 +6,7 @@ I'm a newbie in development, and I love to do UI UX designing, WebApp developmen
 - I'm pursuing my bachelor's degree in Electronics and Communication from College of Engineering Trivandrum.
 - I'm currently improving my JS concepts to learn ReactJS and NodeJS.
 - My Portfolio [Website](). (btw, it's under construction.😐)
-- My [Resume](). (tbh, it's under updation.🤐)
+- My [Resume](https://github.com/sreyask555/sreyask555/blob/main/files/sreyas_resume_leaf.pdf)
  
 [![Sreyas's github stats](https://github-readme-stats.vercel.app/api?username=sreyask555&show_icons=true&theme=dark&icon_color=FFFF)](https://github.com/sreyask555/)
 
